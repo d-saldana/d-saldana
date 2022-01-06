@@ -4,6 +4,7 @@
   * XSLT
   * DITA
   * DITA Open Toolkit
+  * Technical Writing
 <!--
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
